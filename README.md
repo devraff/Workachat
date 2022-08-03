@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h1> Este jovem e nobre bot foi desenvolvido para realizar um coleta de dados do usuário visando o desafio frontend da WorkaLove </h1>
+<h1> Este jovem e nobre bot foi desenvolvido para realizar uma coleta de dados do usuário visando o desafio frontend da WorkaLove </h1>
 </div>
 
 >Local de sua estadia:
