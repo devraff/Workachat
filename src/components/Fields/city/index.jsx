@@ -15,7 +15,7 @@ export default function City({ user, handleNext, setCity }) {
     <div>
       <Message variant="bot">
         Que satisfação, {name}.
-        Agora que sei o seu nome, qual a cidade e estado que voce mora?
+        Agora que sei o seu nome, qual a cidade que voce mora?
       </Message>
       <Formik
         initialValues={{

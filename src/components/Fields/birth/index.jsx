@@ -12,7 +12,7 @@ export default function Birth({ handleNext, setBirth }) {
   return (
     <div>
       <Message variant="bot">
-        Legal, agora que sabemos sua cidade e estado, quando foi que você nasceu?
+        Legal, agora que sabemos sua cidade, quando foi que você nasceu?
       </Message>
       <Formik
         initialValues={{ birth: "" }}
